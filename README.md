@@ -7,7 +7,7 @@ printing text over the image model.
 
 This is possible with JS
 
-1. User form to getting data,the data that I am using is 'nombre', 'apellido' and 'cedula' wich is the sane as 'name',
+1. User form to getting data,the data that I am using are 'nombre', 'apellido' and 'cedula' wich is the same as 'name',
 'lastname' and 'id'. The other values are passing through Jquery/Ajax via POST to a bd.
 
 2. I created the canvas with html5 and set the width and height too, also under canvas I put and img tag, containing
