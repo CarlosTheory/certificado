@@ -1,6 +1,8 @@
 # certificado
 diploma generator for an assignment class using js, jquery, ajax and php, also using FileSaver.js library 
 
+You can see the project live here: http://carlostheory.alwaysdata.net/certificados/
+
 
 This Project is for an event at college, The main thing to do is Generate a Diploma or a Digital Certification
 printing text over the image model.
